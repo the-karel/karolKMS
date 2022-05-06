@@ -8,6 +8,7 @@ Multiple options: select prepared keys and automatically a KMS server, then choo
 <img src="https://i.imgur.com/SHIcqqa.png">
 
 Included key list and KMS servers list. 
+Everything working.
 <img src="https://i.imgur.com/k6N8vqP.png">
 
 Included possibility to check activation:
