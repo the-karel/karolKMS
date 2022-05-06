@@ -17,6 +17,6 @@ Use as you want, this is software for ALL USERS! No matter if they are MacBook f
 
 # Included possibility to check activation:
 <img src="https://i.imgur.com/tRQMfhc.png">
-**
+
 Fully coded by me. Feel free to make this software better, just tag me as contributor.
 - Karol Szo.
