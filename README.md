@@ -12,8 +12,8 @@ Multiple options: select prepared keys and automatically a KMS server, then choo
 
 <img src="https://i.imgur.com/k6N8vqP.png">
 
-Included possibility to check activation:
+# Included possibility to check activation:
 <img src="https://i.imgur.com/tRQMfhc.png">
 
-Fully coded by me. Feel free to make this software better.
+Fully coded by me. Feel free to make this software better, just tag me as contributor.
 - Karol Szo.
