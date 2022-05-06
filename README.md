@@ -5,13 +5,13 @@ Multiple options: select prepared keys and automatically a KMS server, then choo
                   - enter your own key and select automatically a KMS server, then choose version,
                   - enter your own KMS and key, then choose version.
                   - check if your activation is successful.
-https://i.imgur.com/SHIcqqa.png
+<img src="https://i.imgur.com/SHIcqqa.png">
 
 Included key list and KMS servers list. 
-https://i.imgur.com/k6N8vqP.png
+<img src="https://i.imgur.com/k6N8vqP.png">
 
 Included possibility to check activation:
-https://i.imgur.com/tRQMfhc.png
+<img src="https://i.imgur.com/tRQMfhc.png">
 
 Fully coded by me. Feel free to make this software better.
 - Karol Szo.
