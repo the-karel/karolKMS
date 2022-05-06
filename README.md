@@ -1,4 +1,6 @@
 # karolKMS - Simple Windows OS activator.
+REMEMBER TO LAUNCH AS ADMIN - WITHOUT IT, IT WILL FAIL!
+
 The simple .BAT KMS activator. You can activate automatically, enter your key and use our KMS server or enter your Key and KMS server then activate.
 
 Multiple options: select prepared keys and automatically a KMS server, then choose version,
